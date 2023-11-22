@@ -1,0 +1,10 @@
+CREATE SEQUENCE s_idsaison;
+CREATE SEQUENCE s_idequipe;
+CREATE SEQUENCE s_idjoueur;
+CREATE SEQUENCE s_idmatch;
+CREATE SEQUENCE s_idstat;
+CREATE SEQUENCE s_idrebond;
+CREATE SEQUENCE s_idtypetir;
+CREATE SEQUENCE s_idtir;
+CREATE SEQUENCE s_idpassed;
+CREATE SEQUENCE s_mpm;
